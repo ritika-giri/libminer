@@ -2,7 +2,7 @@
 #'
 #' Provide a brief summary of the package libraries on your machine
 #'
-#' @param sizes Boolean to indicate if library sizes are required
+#' @param sizes Boolean to indicate if library sizes are required. Default `FALSE`.
 #'
 #' @return A `data.frame` containing the count of packages in each of the user's libraries
 #' @export
