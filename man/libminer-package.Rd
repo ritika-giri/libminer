@@ -12,6 +12,7 @@ What the package does (one paragraph).
 Useful links:
 \itemize{
   \item \url{https://github.com/ritika-giri/libminer}
+  \item \url{https://ritika-giri.github.io/libminer/}
   \item Report bugs at \url{https://github.com/ritika-giri/libminer/issues}
 }
 
