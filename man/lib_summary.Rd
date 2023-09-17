@@ -7,7 +7,7 @@
 lib_summary(sizes = FALSE)
 }
 \arguments{
-\item{sizes}{Boolean to indicate if library sizes are required}
+\item{sizes}{Boolean to indicate if library sizes are required. Default \code{FALSE}.}
 }
 \value{
 A \code{data.frame} containing the count of packages in each of the user's libraries
